@@ -1,6 +1,6 @@
 # 考试界面
 
-考试界面使用 Vue3 + Element UI 完成
+考试界面使用 Vue3 + VueCli +Element UI 完成
 
 Vue 使用了 Vuex VueRouter
 
