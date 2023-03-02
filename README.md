@@ -6,7 +6,7 @@
   
   - 使用React完成简单的学生管理界面,能够实现增删改查 Mock模拟数据
   
-  <img src="file:///C:/Users/Lenovo/Desktop/learn/githup/assets/student1.JPG">
+  <img src="./assets/student1.JPG">
   
   <img src="file:///C:/Users/Lenovo/Desktop/learn/githup/assets/student2.JPG">
 
