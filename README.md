@@ -18,10 +18,10 @@
   
   - 简单的主页显示考试信息
     
-    <img title=""https://github.com/sekiroxxxx/personal-traing/blob/main/assets/exam1.JPG" alt="">
+    <img src="https://github.com/sekiroxxxx/personal-traing/blob/main/assets/exam1.JPG" >
   
   - 考试界面提供做题区域和切换题目,点击下一题保存答案,倒计时结束交卷自动保存答案
     
-    <img title=""https://github.com/sekiroxxxx/personal-traing/blob/main/assets/exam2.JPG" alt="">
+    <img src="https://github.com/sekiroxxxx/personal-traing/blob/main/assets/exam2.JPG" >
 
 
